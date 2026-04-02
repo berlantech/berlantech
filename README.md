@@ -1,4 +1,4 @@
-<h1  align="center">Hello there! I'm Juberlandio
+<h1  align="left">Hello there! I'm Juberlandio
 <p align="center">
   <a href="https://github.com/artprange/readme-typing-svg">
 </p>
