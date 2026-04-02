@@ -1,9 +1,4 @@
 <h1  align="left">Hello there! I'm Juberlandio
-<p align="left">
-  <a href="https://github.com/artprange/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=14DBEB&vCenter=true&pause=1500&size=35" /></a>
-</p>
- 
 ## Contacts:
 <div align="left"> 
 <a href="https://juberlandio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp; 
