@@ -8,13 +8,6 @@
 <img width=51% height=100% src="https://github-readme-streak-stats.herokuapp.com/?user=Juberlandio&theme=dark&hide_border=false"/>
 <img width=51% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juberlandio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
-### Tecnologias que utilizo com frequência ⚡
-
-### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind,git,github,figma)](https://skillicons.dev)
-
-### Backend / Database
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nest,php,laravel,mysql)](https://skillicons.dev)
  
 ## Contacts:
 <div align="left"> 
